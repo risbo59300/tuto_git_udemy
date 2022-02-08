@@ -1,0 +1,45 @@
+LISTE DES COMMANDE GIT:
+
+git --version : pour verifier la version de git.
+
+git config --global user.name "GABA-MANO" : saisi du nom d'utilisateur.
+
+git config --global user.email ybgabamano@gmail.com : saisi du mail de l'utilisateur
+
+git --help : Pour avoir la liste des commandes git
+
+git help -a : Pour avoir la liste des commandes git avec moins d'information
+
+git init : Pour l'initialisation d'un dépôt git vide
+
+ls -al : Pour visualiser l'ensemble des fichiers et dossiers dans le depot local
+
+ cd .git : Pour entrer dans le dossier ".git"
+
+ cd .. : Pour retourner dans le dossier précedent
+
+git status : Permet de voir l'etat du repertoire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
